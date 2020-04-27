@@ -1,8 +1,10 @@
 # CMPM163
 
-VIDEO : https://drive.google.com/file/d/1x-3cOI9u3AuaVOwqRH4ENmc9i7xaGuEZ/view?usp=sharing
+VIDEO : https://drive.google.com/file/d/1v9Vl3_OmAcIz7YJ0zykMOa2b32bo-Gof/view?usp=sharing
 
-Cubes : Top cube I just used vUv in frag shaders colors
-Left cube I changed a bunch of mesh material attributes 
-middle / Right cube were given in tutorial 
+Cubes : Followed the tutorials for the given 3 cubes, for the top middle cube, i added both a texture and a normal map. Then for the tiled cube whenever the vUv.x or y goes over the textures scale, we reset it to the beginning so that it loops over the image.
 
+Questions : 
+a : x = 7 * U
+b : y = 7 - 7*v
+c: (2,5) light gray
