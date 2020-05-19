@@ -1,15 +1,6 @@
 # CMPM163
-LAB 6:
-![](lab6pic.png)
+LAB 7 : 
 
-Definitions :
-  Point Light : light with no shape, uniform light in all directions
-  Spotlight : Conical light in one direction
-  Directional light : Lights everything from one direction (the whole scene)
-  Area Light : like a rectangle being projected in a direction
+Video Link : https://drive.google.com/file/d/1p4EP2LeAdfXgHzBZaOdFhhN3BGrWvaAg/view?usp=sharing
 
-I couldnt upload another image of something so i just made a reflective material that looks like a christmas ornament
-
-I found two wooden textures, one had a more metalic look to it and added it to two objects in my scene.
-
-I made a new skybox and adjusted the colors, as well as the size of the sun (which you cant see in this pic)
+I used shadergraph to make the vertex displacement for the sphere by following the tutorial, then I played around with other settings to make the mountains. For the water I took the planes world position and added sin time to its y component with time.
